@@ -1,0 +1,5 @@
+url: 127.0.0.1
+userName: MySQl80
+password: 123456
+dbname: example
+post: 3306
